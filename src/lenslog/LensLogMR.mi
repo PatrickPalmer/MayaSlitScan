@@ -1,0 +1,14 @@
+
+declare shader
+	color "lens_log" (
+		scalar		"floor",	# anything smaller -> 0
+		scalar		"ceiling",	# anything larger  -> 1
+		boolean		"luminance",	# rgb or luminance
+		color		"floor_color",
+		color		"ceil_color"
+	)
+	version 1
+	apply lens
+end declare
+
+

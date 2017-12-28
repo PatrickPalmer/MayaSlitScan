@@ -1,0 +1,12 @@
+
+declare shader
+	color "SlitScanLens" (
+		string		"filename"
+	)
+	version 1
+	apply lens
+	scanline off
+	trace on
+	#: nodeid 81220     # Maya hex node id
+end declare
+
