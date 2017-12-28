@@ -29,7 +29,7 @@ The Mental Ray plug-in must be installed within the Maya application.  Here are 
 
 1. Open up the /Applications/Autodesk/maya2009 directory.
 2. Right click on the Maya.app to bring up a contextual menu.
-3. Select the "Show Package Contents"ù menu option.
+3. Select the "Show Package Contents" menu option.
 4. Traverse into the Contents directory.
 5. Place the render_SlitScanLens.xpm into the icons directory.
 6. Traverse into the mentalray directory.
